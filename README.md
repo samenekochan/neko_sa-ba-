@@ -1,2 +1,2 @@
 # neko_sa-ba-
-for neko server
+use to save image online, nothing special
